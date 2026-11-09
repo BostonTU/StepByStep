@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">StepByStep ActivityTracker</string>
+    <string name="title_dashboard">StepByStep</string>
+    <string name="subtitle_dashboard">Activity Tracker</string>
+
+    <string name="status_ready">พร้อมบันทึก</string>
+    <string name="status_recording">กำลังบันทึกกิจกรรม</string>
+
+    <string name="label_steps">ก้าวเดิน</string>
+    <string name="label_shakes">การเขย่า</string>
+    <string name="label_duration">ระยะเวลา Session</string>
+
+    <string name="btn_start">เริ่มบันทึกกิจกรรม</string>
+    <string name="btn_stop">จบและบันทึก</string>
+
+    <string name="section_summary">สรุปสถิติรวม</string>
+    <string name="label_total_steps">ก้าวเดินรวม</string>
+    <string name="label_total_shakes">การเขย่ารวม</string>
+    <string name="label_record_steps">ก้าวเดินสูงสุด</string>
+    <string name="label_record_shakes">การเขย่าสูงสุด</string>
+
+    <string name="section_history">ประวัติกิจกรรม</string>
+    <string name="empty_history_title">ยังไม่มีประวัติกิจกรรม</string>
+    <string name="empty_history_desc">กดปุ่ม "เริ่มบันทึกกิจกรรม" เพื่อเริ่มนับก้าวและการเขย่าใน Session แรกของคุณ</string>
+
+    <string name="dialog_detail_title">รายละเอียด Session</string>
+    <string name="label_session_id">Session ID:</string>
+    <string name="label_date_time">วัน-เวลาบันทึก:</string>
+    <string name="label_avg_steps">อัตราก้าวเดินเฉลี่ย:</string>
+    <string name="label_avg_shakes">อัตราการเขย่าเฉลี่ย:</string>
+    <string name="btn_close">ปิดหน้าต่าง</string>
+    <string name="btn_delete">ลบรายการนี้</string>
+
+    <string name="confirm_delete_title">ยืนยันการลบประวัติ</string>
+    <string name="confirm_delete_msg">คุณต้องการลบประวัติกิจกรรมนี้ออกจากระบบใช่หรือไม่?</string>
+    <string name="cancel">ยกเลิก</string>
+    <string name="delete">ลบข้อมูล</string>
+</resources>

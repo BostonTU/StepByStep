@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Premium Neutral Palette -->
+    <color name="bg_main">#F8FAFC</color>
+    <color name="card_bg">#FFFFFF</color>
+    <color name="card_stroke">#E2E8F0</color>
+    <color name="card_inner">#F1F5F9</color>
+
+    <!-- Professional Typography Colors -->
+    <color name="text_primary">#0F172A</color>
+    <color name="text_secondary">#475569</color>
+    <color name="text_muted">#94A3B8</color>
+
+    <!-- Brand & Accent Colors -->
+    <color name="primary">#0F172A</color>
+    <color name="primary_dark">#020617</color>
+    <color name="primary_light">#F8FAFC</color>
+
+    <!-- Health Indicators -->
+    <color name="steps_green">#059669</color>
+    <color name="steps_green_light">#ECFDF5</color>
+    <color name="shakes_orange">#D97706</color>
+    <color name="shakes_orange_light">#FFFBEB</color>
+    <color name="timer_purple">#4F46E5</color>
+    <color name="timer_purple_light">#EEF2FF</color>
+
+    <!-- Action Buttons -->
+    <color name="btn_start">#0F172A</color>
+    <color name="btn_stop">#DC2626</color>
+    <color name="btn_delete">#DC2626</color>
+    <color name="btn_disabled">#E2E8F0</color>
+
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="divider">#F1F5F9</color>
+</resources>
